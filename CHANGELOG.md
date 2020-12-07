@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.3.0](https://www.github.com/jef/streetmerchant/compare/v3.2.0...v3.3.0) (2020-12-07)
+
+
+### Features
+
+* **docs:** add mkdocs ([243109a](https://www.github.com/jef/streetmerchant/commit/243109a4ffdfe1d1efe961af0b5cf28fd7e6ef1d))
+
+
+### Bug Fixes
+
+* **ci:** mkdocs deps ([1f63e99](https://www.github.com/jef/streetmerchant/commit/1f63e9980499ac567845473dc48e51cab78c838e))
+
 ## [3.2.0](https://www.github.com/jef/streetmerchant/compare/v3.1.0...v3.2.0) (2020-12-06)
 
 
